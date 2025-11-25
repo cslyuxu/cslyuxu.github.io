@@ -99,9 +99,5 @@ IEEE International Conference on Data Engineering (**ICDE**), April 2020.
 <!-- ClustrMaps 3D Globe -->
 <!-- <div style="width: 200px; height: 200px; margin: 20px auto;">  -->
 <div style="display: none;">
-  <script 
-        type="text/javascript" 
-        id="clstr_globe" 
-        src="//clustrmaps.com/globe.js?d=DDs_hE9lk7PsU1ZRky_FBGAQEjLxZigiUUzWOwowD6U">
-    </script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=1nOwRGUVXKcXl4CMM27VML3vjD1Ku4CgXiaeSQ3Mpx4"></script>	
 </div>
