@@ -24,10 +24,13 @@ author_profile: true
   - *PAKDD*: 2026
  
   
-- **Conference Program External Reviewer**
-  - *SIGMOD*: 2026-2025 
-  - *PVLDB*: 2026  
-  - *ICDE*: 2026 
+- **Journal and Conference Program External Reviewer**
+  - *TKDE*
+  - *SIGMOD*: 2026-2025, 2023, 2021
+  - *PVLDB*: 2026-2025, 2019
+  - *ICDE*: 2026, 2022-2021
   - *SIGKDD*: 2025 
+  - *CIKM*: 2022
+  - *PAKDD*: 2022
 <!--  - *PAKDD*: 2022–2020-->  
 
