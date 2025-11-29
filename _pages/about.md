@@ -41,10 +41,6 @@ ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 202
 **Lyu Xu**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2025.
 
-- **<font size=4>ChatGraph: Chat with Your Graphs.</font>**  
-Yun Peng, Sen Lin, Qian Chen, **Lyu Xu**, Xiaojun Ren, Yafei Li and Jianliang Xu   
-IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
-
 
 - **<font size=4>A Framework for Privacy Preserving Localized Graph Pattern Query Processing.</font>**  
 **Lyu Xu**, Byron Choi, Yun Peng, Jianliang Xu and Sourav S. Bhowmick  
@@ -60,6 +56,11 @@ IEEE International Conference on Data Engineering (**ICDE**), April 2021.
 - **<font size=4>PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.</font>**  
 Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick and **Lyu Xu**
 IEEE International Conference on Data Engineering (**ICDE**), April 2020.
+
+
+- **<font size=4>ChatGraph: Chat with Your Graphs.</font>**  
+Yun Peng, Sen Lin, Qian Chen, **Lyu Xu**, Xiaojun Ren, Yafei Li and Jianliang Xu   
+IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
 
 
 
