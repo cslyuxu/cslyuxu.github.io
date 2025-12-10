@@ -1,11 +1,11 @@
 ---
-title: "Service"
+title: "Academic Service"
 permalink: /service/
 layout: archive
 author_profile: true
 ---
 
-### Academic Services
+<!-- ### Academic Services-->
 
 <!-- - **Community Service**
   - On behalf of [*DBWorld Moderators*](https://dbworld.sigmod.org/browse.html) (Nov 2021 – Present)

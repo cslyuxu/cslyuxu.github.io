@@ -20,9 +20,13 @@ I am currently a a Postdoctoral Research Fellow at Nanyang Technological Univers
 # <font size=5>🔍 Research Interest  </font>
 ---
 
-Database, Graph Data Management, Privacy-Preserving Computing, and Information Security
+Database, Graph Data Management, Privacy-Preserving Computing, and Information Security<br>
 <!-- My research focuses on **efficient and scalable learning**, spanning **modeling, indexing, compression, and reasoning** over dynamic, high-dimensional data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and effectiveness.
 I pursue this goal through advances in **shape-based learning**, **efficient transformers**, **symbolic indexing**, **graph-driven representations**, and **unified frameworks for large-scale temporal reasoning**. -->
+My current focuses include:
+- **<font size=4>Privacy preserving graph queries </font>**<br>
+- **<font size=4>Query services on the cloud </font>**<br>
+- **<font size=4>Query processing on large temporal graphs </font>**<br>
 
 &nbsp;
 # <font size=5>📝 Publications</font>
