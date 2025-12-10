@@ -103,6 +103,3 @@ IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
 <!-- # 🌍 Pageviews  -->
 <!-- ClustrMaps 3D Globe -->
 <!-- <div style="width: 200px; height: 200px; margin: 20px auto;">  -->
-<div style="display: none;">
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=1nOwRGUVXKcXl4CMM27VML3vjD1Ku4CgXiaeSQ3Mpx4"></script>	
-</div>

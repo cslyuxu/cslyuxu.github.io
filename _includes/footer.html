@@ -15,7 +15,8 @@
     {% if site.atom_feed.hide != true %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endif %}
-<div style="width: 200px; height: 130px; margin: -50px auto;">
+<div style="display:none;">
+<!--<div style="width: 200px; height: 130px; margin: -50px auto;">-->
   <script type="text/javascript" id="mapmyvisitors"
     src="//mapmyvisitors.com/map.js?d=OmpNzNE08a9Zlp1LfAMlW0lnpR6smRxtwV9prdugL58&cl=ffffff&w=a">
   </script>
