@@ -33,7 +33,7 @@ I pursue this goal through advances in **shape-based learning**, **efficient tra
 
 - **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy. (accepted)</font>**  
 <u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
-ACM Conference on Computer and Communications Security (**CCS**), June 2026.
+ACM Conference on Computer and Communications Security (**CCS**), November 2026.
 
 - **<font size=4>ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks.</font>**  
 <u>Yunxiang Zhao</u>, **Lyu Xu<sup>\#</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
