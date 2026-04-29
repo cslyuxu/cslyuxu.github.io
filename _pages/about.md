@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Research Fellow at Nanyang Technological University (NTU), and I am very honored to be advised by [Prof. Qichen Wang](https://qichen-wang.github.io/). Prior to joining NTU in Nov. 2025, I was a postdoc at Hong Kong Polytechnic University between Nov. 2024 and Oct. 2025, working with [Prof. Haibo Hu](https://haibohu.org/) and [Prof. Yifeng Zheng](https://yifengzcs.github.io/). I received my PhD degree from the Department of Computer Science at Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). Before that, I received my Master's Degree in Computer Science and Engineering from Sun Yat-sen University, and my Bachelor's Degree in Computer Science and Engineering from Southeast University. I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/).
+I am currently a Research Fellow at Nanyang Technological University (NTU), and I am very honored to work with [Prof. Qichen Wang](https://qichen-wang.github.io/). Prior to joining NTU, I was a postdoc at Hong Kong Polytechnic University, working with [Prof. Haibo Hu](https://haibohu.org/) and [Prof. Yifeng Zheng](https://yifengzcs.github.io/). I received my PhD degree from the Department of Computer Science at Hong Kong Baptist University (HKBU), under the supervision of [Prof. Byron Choi](https://www.comp.hkbu.edu.hk/~bchoi/) and [Prof. Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/). Before that, I received my Master's Degree in Computer Science and Engineering at Sun Yat-sen University, and my Bachelor's Degree in Computer Science and Engineering at Southeast University. I was also a member of the [HKBU Database Group](https://www.comp.hkbu.edu.hk/~db/).
 
 
 <!-- I am also a member of the [InfoCloud](https://cloud.kaust.edu.sa) the [KAUST Center of Excelence for Generative AI](https://www.kaust.edu.sa/en/research/generative-ai). -->
@@ -20,30 +20,36 @@ I am currently a Postdoctoral Research Fellow at Nanyang Technological Universit
 # <font size=5>🔍 Research Interest  </font>
 ---
 
-Database, Graph Data Management, Privacy-Preserving Computing, and Information Security<br>
+Database, Graph Data Management, Privacy-Preserving Computing, and Information Security
 <!-- My research focuses on **efficient and scalable learning**, spanning **modeling, indexing, compression, and reasoning** over dynamic, high-dimensional data, aiming to capture long-range and multimodal dependencies while supporting downstream tasks such as classification, clustering, forecasting, retrieval, and error-bounded compression with both efficiency and effectiveness.
 I pursue this goal through advances in **shape-based learning**, **efficient transformers**, **symbolic indexing**, **graph-driven representations**, and **unified frameworks for large-scale temporal reasoning**. -->
-My current focuses include:
-- **<font size=4>Privacy preserving graph queries </font>**<br>
-- **<font size=4>Query services on the cloud </font>**<br>
-- **<font size=4>Query processing on large temporal graphs </font>**<br>
 
 &nbsp;
 # <font size=5>📝 Publications</font>
 
 ---
 
-\# indicates corresponding author 
+\# indicates corresponding author,&ensp; __ indicates student collaborator mentored by me
 
+- **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy. (accepted)</font>**  
+<u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
+ACM Conference on Computer and Communications Security (**CCS**), June 2026.
 
-- **<font size=4>ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks. (accepted)</font>**  
-Yunxiang Zhao, **Lyu Xu<sup>\#</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
+- **<font size=4>ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks.</font>**  
+<u>Yunxiang Zhao</u>, **Lyu Xu<sup>\#</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2026.
 
+- **<font size=4>Efficient Densest Flow Queries in Transaction Flow Networks.</font>**  
+Jiaxin Jiang, Yunxiang Zhao, **Lyu Xu**, Byron Choi, Bingsheng He, Shixuan Sun, Jia Chen  
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 
 - **<font size=4>Bursting Flow Query on Large Temporal Flow Networks.</font>**  
 **Lyu Xu**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2025.
+
+- **<font size=4>ChatGraph: Chat with Your Graphs.</font>**  
+Yun Peng, Sen Lin, Qian Chen, **Lyu Xu**, Xiaojun Ren, Yafei Li and Jianliang Xu   
+IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
 
 
 - **<font size=4>A Framework for Privacy Preserving Localized Graph Pattern Query Processing.</font>**  
@@ -60,11 +66,6 @@ IEEE International Conference on Data Engineering (**ICDE**), April 2021.
 - **<font size=4>PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.</font>**  
 Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick and **Lyu Xu**
 IEEE International Conference on Data Engineering (**ICDE**), April 2020.
-
-
-- **<font size=4>ChatGraph: Chat with Your Graphs.</font>**  
-Yun Peng, Sen Lin, Qian Chen, **Lyu Xu**, Xiaojun Ren, Yafei Li and Jianliang Xu   
-IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
 
 
 
@@ -100,6 +101,9 @@ IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
 
 
 
+
+
 <!-- # 🌍 Pageviews  -->
 <!-- ClustrMaps 3D Globe -->
-<!-- <div style="width: 200px; height: 200px; margin: 20px auto;">  -->
+<!--<div style="width: 200px; height: 200px; margin: 20px auto;">-->
+
