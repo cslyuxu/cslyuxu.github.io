@@ -59,12 +59,12 @@ ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 202
 
 
 - **<font size=4>Privacy Preserving Strong Simulation Queries on Large Graphs.</font>**  
-**Lyu Xu**, Jiaxin Jiang, Byron Choi, Jianliang Xu and Sourav S. Bhowmick 
+**Lyu Xu**, Jiaxin Jiang, Byron Choi, Jianliang Xu and Sourav S. Bhowmick  
 IEEE International Conference on Data Engineering (**ICDE**), April 2021.
 
 
 - **<font size=4>PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.</font>**  
-Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick and **Lyu Xu**
+Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick and **Lyu Xu**  
 IEEE International Conference on Data Engineering (**ICDE**), April 2020.
 
 
