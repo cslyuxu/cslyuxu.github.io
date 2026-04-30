@@ -7,10 +7,8 @@ author_profile: true
 
 <!-- ### Academic Services-->
 
- - **Community Service**
-  - On behalf of [*DBWorld Moderators*](https://dbworld.sigmod.org/browse.html) (March 2026 – Present)
-<!-- - [KAUST Rising Stars in AI Symposium](https://kaust.edu.sa/events/rsais26/), Scientific Committee, 2026
-  - [MenaML 2026](https://www.mena.ml), Application Reviewer -->
+- **Community Service**
+  - On behalf of [*DBWorld Moderators*](https://dbworld.sigmod.org/browse.html) (March 2026 – Present)  
 
 - **Journal Reviewer**
 <!-- - *IEEE Transactions on Knowledge and Data Engineering (TKDE)*-->
