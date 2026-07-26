@@ -29,7 +29,7 @@ I pursue this goal through advances in **shape-based learning**, **efficient tra
 
 ---
 
-"†": equal contribution;&ensp; "*": corresponding author;&ensp; "__": student collaborator
+"†": equal contribution&ensp; "*": corresponding author&ensp; "__": student collaborator
 
 - **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy. (accepted)</font>**  
 <u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
@@ -43,13 +43,13 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 Jiaxin Jiang, Jingjie Zhan, **Lyu Xu<sup>*</sup>**, Byron Choi, Qiange Wang, Ning Liu, Bingsheng He, Jianliang Xu  
 The International Journal on Very Large Data Bases (**VLDBJ**), 2026.
 
-- **<font size=4>Efficient Densest Flow Queries in Transaction Flow Networks.</font>**  
-Jiaxin Jiang, Yunxiang Zhao, **Lyu Xu**, Byron Choi, Bingsheng He, Shixuan Sun, Jia Chen  
-IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
-
 - **<font size=4>ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks.</font>**  
 <u>Yunxiang Zhao</u>, **Lyu Xu<sup>*</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2026.
+
+- **<font size=4>Efficient Densest Flow Queries in Transaction Flow Networks.</font>**  
+Jiaxin Jiang, Yunxiang Zhao, **Lyu Xu**, Byron Choi, Bingsheng He, Shixuan Sun, Jia Chen  
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 
 - **<font size=4>Bursting Flow Query on Large Temporal Flow Networks.</font>**  
 **Lyu Xu**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
