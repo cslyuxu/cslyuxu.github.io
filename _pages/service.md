@@ -13,6 +13,7 @@ author_profile: true
 - **Journal Reviewer**
 <!-- - *IEEE Transactions on Knowledge and Data Engineering (TKDE)*-->
 <!-- - *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*-->
+  - *IEEE Transactions on Services Computing (TSC)*
   - *Data Science and Engineering (DSE)*
 
 <!-- - **Conference Program Session Chair** -->

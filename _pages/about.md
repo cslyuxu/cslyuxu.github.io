@@ -29,18 +29,26 @@ I pursue this goal through advances in **shape-based learning**, **efficient tra
 
 ---
 
-\# indicates corresponding author,&ensp; __ indicates student collaborator mentored by me
+"†": equal contribution;&ensp; "*": corresponding author;&ensp; "__": student collaborator
 
 - **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy. (accepted)</font>**  
 <u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
 ACM Conference on Computer and Communications Security (**CCS**), November 2026.
+
+- **<font size=4>PMatch: A Secure Framework for Querying Private Localized Graph Patterns.</font>**  
+**Lyu Xu**, Haibo Hu, Yifeng Zheng, Jiaxin Jiang, Qingqing Ye, Byron Choi, Jianliang Xu  
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
+
+- **<font size=4>PPG: A Public-Private Graph Evaluation Framework for Efficient Querying and Analysis.</font>**  
+Jiaxin Jiang, Jingjie Zhan, **Lyu Xu<sup>*</sup>**, Byron Choi, Qiange Wang, Ning Liu, Bingsheng He, Jianliang Xu  
+The International Journal on Very Large Data Bases (**VLDBJ**), 2026.
 
 - **<font size=4>Efficient Densest Flow Queries in Transaction Flow Networks.</font>**  
 Jiaxin Jiang, Yunxiang Zhao, **Lyu Xu**, Byron Choi, Bingsheng He, Shixuan Sun, Jia Chen  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 
 - **<font size=4>ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks.</font>**  
-<u>Yunxiang Zhao</u>, **Lyu Xu<sup>\#</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
+<u>Yunxiang Zhao</u>, **Lyu Xu<sup>*</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2026.
 
 - **<font size=4>Bursting Flow Query on Large Temporal Flow Networks.</font>**  
@@ -51,17 +59,13 @@ ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 202
 Yun Peng, Sen Lin, Qian Chen, **Lyu Xu**, Xiaojun Ren, Yafei Li and Jianliang Xu   
 IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
 
-
 - **<font size=4>A Framework for Privacy Preserving Localized Graph Pattern Query Processing.</font>**  
 **Lyu Xu**, Byron Choi, Yun Peng, Jianliang Xu and Sourav S. Bhowmick  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2023.
 
-
-
 - **<font size=4>Privacy Preserving Strong Simulation Queries on Large Graphs.</font>**  
 **Lyu Xu**, Jiaxin Jiang, Byron Choi, Jianliang Xu and Sourav S. Bhowmick  
 IEEE International Conference on Data Engineering (**ICDE**), April 2021.
-
 
 - **<font size=4>PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.</font>**  
 Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick and **Lyu Xu**  
