@@ -29,7 +29,7 @@ I pursue this goal through advances in **shape-based learning**, **efficient tra
 
 ---
 
-"†": equal contribution&ensp; "*": corresponding author&ensp; "__": student collaborator
+"†": equal contribution,&ensp; "*": corresponding author,&ensp; "__": student collaborator
 
 - **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy. (accepted)</font>**  
 <u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
