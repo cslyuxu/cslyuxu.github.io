@@ -20,7 +20,9 @@ author_profile: true
 <!--  - *CIKM 2020*-->
 
 - **Conference Program Committee (PC) Member**
+  - *WSDM*: 2027
   - *PAKDD*: 2026
+  - *IEEE BigData*: 2026
  
   
 - **Journal and Conference Program External Reviewer**
