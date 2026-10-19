@@ -27,7 +27,6 @@ author_profile: true
  
   
 - **Journal and Conference Program External Reviewer**
-  - *TKDE*
   - *SIGMOD*: 2027-2025, 2023, 2021
   - *PVLDB*: 2027-2025, 2019
   - *ICDE*: 2026, 2022-2021
