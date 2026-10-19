@@ -30,7 +30,7 @@ I pursue this goal through advances in **shape-based learning**, **efficient tra
 ---
 
 "†": equal contribution,&ensp; "*": corresponding author,&ensp; "__": student collaborator
-- **<font size=4>Gisma: Giant-Step-Small-Step Indexing for Approximate Similarity Search in Graph Databases.</font>**  
+- **<font size=4>ObliGraph: Graph Pattern Query Processing with Full and Differential Obliviousness.</font>**  
 **Lyu Xu**, Xinyi Zhang, Qichen Wang  
 The International Conference on Very Large Data Bases (**PVLDB**), August 2027.
 
