@@ -25,13 +25,20 @@ Database, Graph Data Management, Privacy-Preserving Computing, and Information S
 I pursue this goal through advances in **shape-based learning**, **efficient transformers**, **symbolic indexing**, **graph-driven representations**, and **unified frameworks for large-scale temporal reasoning**. -->
 
 &nbsp;
-# <font size=5>📝 Publications</font>
+# <font size=5>📝 Selected Publications</font>
 
 ---
 
 "†": equal contribution,&ensp; "*": corresponding author,&ensp; "__": student collaborator
+- **<font size=4>Gisma: Giant-Step-Small-Step Indexing for Approximate Similarity Search in Graph Databases.</font>**  
+**Lyu Xu**, Xinyi Zhang, Qichen Wang  
+The International Conference on Very Large Data Bases (**PVLDB**), August 2027.
 
-- **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy. (accepted)</font>**  
+- **<font size=4>Gisma: Giant-Step-Small-Step Indexing for Approximate Similarity Search in Graph Databases.</font>**  
+<u>Yikai Gong</u>, **Lyu Xu<sup>*</sup>**, Yun Peng, Byron Choi, Jianliang Xu, Xin Huang  
+The International Conference on Very Large Data Bases (**PVLDB**), August 2027.
+
+- **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy.</font>**  
 <u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
 ACM Conference on Computer and Communications Security (**CCS**), November 2026.
 
@@ -63,13 +70,13 @@ IEEE International Conference on Data Engineering (**ICDE Demo**), May 2024.
 **Lyu Xu**, Byron Choi, Yun Peng, Jianliang Xu and Sourav S. Bhowmick  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2023.
 
-- **<font size=4>Privacy Preserving Strong Simulation Queries on Large Graphs.</font>**  
+<!-- - **<font size=4>Privacy Preserving Strong Simulation Queries on Large Graphs.</font>**  
 **Lyu Xu**, Jiaxin Jiang, Byron Choi, Jianliang Xu and Sourav S. Bhowmick  
-IEEE International Conference on Data Engineering (**ICDE**), April 2021.
+IEEE International Conference on Data Engineering (**ICDE**), April 2021. -->
 
-- **<font size=4>PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.</font>**  
+<!-- - **<font size=4>PPKWS: An Efficient Framework for Keyword Search on Public-Private Networks.</font>**  
 Jiaxin Jiang, Xin Huang, Byron Choi, Jianliang Xu, Sourav S. Bhowmick and **Lyu Xu**  
-IEEE International Conference on Data Engineering (**ICDE**), April 2020.
+IEEE International Conference on Data Engineering (**ICDE**), April 2020. -->
 
 
 
