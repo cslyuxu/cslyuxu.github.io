@@ -46,13 +46,13 @@ ACM Conference on Computer and Communications Security (**CCS**), November 2026.
 **Lyu Xu**, Haibo Hu, Yifeng Zheng, Jiaxin Jiang, Qingqing Ye, Byron Choi, Jianliang Xu  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 
-- **<font size=4>PPG: A Public-Private Graph Evaluation Framework for Efficient Querying and Analysis.</font>**  
-Jiaxin Jiang, Jingjie Zhan, **Lyu Xu<sup>*</sup>**, Byron Choi, Qiange Wang, Ning Liu, Bingsheng He, Jianliang Xu  
-The International Journal on Very Large Data Bases (**VLDBJ**), 2026.
-
 - **<font size=4>ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks.</font>**  
 <u>Yunxiang Zhao</u>, **Lyu Xu<sup>*</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2026.
+
+- **<font size=4>PPG: A Public-Private Graph Evaluation Framework for Efficient Querying and Analysis.</font>**  
+Jiaxin Jiang, Jingjie Zhan, **Lyu Xu**, Byron Choi, Qiange Wang, Ning Liu, Bingsheng He, Jianliang Xu  
+The International Journal on Very Large Data Bases (**VLDBJ**), 2026.
 
 - **<font size=4>Efficient Densest Flow Queries in Transaction Flow Networks.</font>**  
 Jiaxin Jiang, Yunxiang Zhao, **Lyu Xu**, Byron Choi, Bingsheng He, Shixuan Sun, Jia Chen  
