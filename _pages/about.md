@@ -38,10 +38,6 @@ The International Conference on Very Large Data Bases (**PVLDB**), August 2027.
 <u>Yikai Gong</u>, **Lyu Xu<sup>*</sup>**, Yun Peng, Byron Choi, Jianliang Xu, Xin Huang  
 The International Conference on Very Large Data Bases (**PVLDB**), August 2027.
 
-- **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy.</font>**  
-<u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
-ACM Conference on Computer and Communications Security (**CCS**), November 2026.
-
 - **<font size=4>PMatch: A Secure Framework for Querying Private Localized Graph Patterns.</font>**  
 **Lyu Xu**, Haibo Hu, Yifeng Zheng, Jiaxin Jiang, Qingqing Ye, Byron Choi, Jianliang Xu  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
@@ -49,6 +45,10 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2026.
 - **<font size=4>ABFlow: Alert Bursting Flow Query in Streaming Temporal Flow Networks.</font>**  
 <u>Yunxiang Zhao</u>, **Lyu Xu<sup>*</sup>**, Jiaxin Jiang, Byron Choi, Jianliang Xu, Bingsheng He  
 ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2026.
+
+- **<font size=4>Hitchhiking on Inherent Randomness: Diffusion-based Graph Generation under Differential Privacy.</font>**  
+<u>Renxuan Hou</u>, Qingqing Ye, **Lyu Xu**, Xun Ran, Haibo Hu  
+ACM Conference on Computer and Communications Security (**CCS**), November 2026.
 
 - **<font size=4>PPG: A Public-Private Graph Evaluation Framework for Efficient Querying and Analysis.</font>**  
 Jiaxin Jiang, Jingjie Zhan, **Lyu Xu**, Byron Choi, Qiange Wang, Ning Liu, Bingsheng He, Jianliang Xu  
